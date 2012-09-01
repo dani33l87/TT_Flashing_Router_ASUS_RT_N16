@@ -3,8 +3,10 @@ TT_Flashing-router-ASUS-RT-N16
 
 
 Requirements:
+
 Windows XP/Vista/7
-Firmaware File.
+
+New Firmware.
 
 
 Steps:
