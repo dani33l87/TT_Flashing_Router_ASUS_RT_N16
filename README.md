@@ -1,4 +1,4 @@
-TT_Flashing-router-ASUS-RT-N16
+TT_Flashing_Router_ASUS_RT_N16
 ==============================
 
 
